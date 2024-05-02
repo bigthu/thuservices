@@ -113,7 +113,9 @@
 
 ## eduroam
 
-访问 <https://guestman.tsinghua.edu.cn:8443/> 可注册。注：只可用于清华校外。
+访问 <http://eduroam.tsinghua.edu.cn/> 可注册。
+
+注：只可用于清华校外；之前guestman开头的网址已失效；校外登录及修改密码亦需要通过WebVPN。
 
 ## cksqs 查询GPA
 
